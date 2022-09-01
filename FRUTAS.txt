@@ -2,3 +2,7 @@ Morango
 Uva
 Maça
 Laranja
+Manga
+Goiaba
+Maracuja
+
